@@ -1,2 +1,6 @@
 .vscode
 .pytest_cache
+algorithms/__pycache__
+ds/__pycache__
+ds/linked_list/__pycache__
+tests/__pycache__
