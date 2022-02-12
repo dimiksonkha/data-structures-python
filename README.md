@@ -1,8 +1,8 @@
 # Data Structures implementaion and testing using Python
 
 ## Introduction
-The most common data strucutres from computer science have been curated and implemented using programming langulage. I have used Python as programming language.  
-I have also done unit testing on implementaion of data structures
+The most common data structures from computer science have been curated and implemented using programming language. I have used Python as programming language.
+I have also done unit testing on implementation of data structures.
 
 ## List of Data Structure(s)
 - Linked List
